@@ -1,0 +1,14 @@
+{
+  "name": "parcel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AKR",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.0"
+  }
+}
