@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
   function editInputChangeListener(event) {
-    console.log("edit input", event.target.value);
+    //console.log("edit input", event.target.value);
     if (event.target.value) {
       let value = event.target.value;
       todos[parseInt(event.target.data_key)]=event.target.value;
